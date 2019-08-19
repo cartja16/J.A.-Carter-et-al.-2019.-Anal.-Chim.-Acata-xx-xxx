@@ -1,5 +1,5 @@
 # J.A.-Carter-et-al.-2019-.-Anal. Chim. Acta-1062 37-46.
-Provided is the R code used for multivariate analysis and data visualization in J.A. Carter et al. (2019). Anal. Chim. Acta
+Provided is the R code used for multivariate analysis and data visualization in J.A. Carter et al. (2019). Anal. Chim. Acta 1062 37-76.
 
 Abstract:
 
