@@ -33,11 +33,6 @@ OES_Carb_1_norm_wide <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PC
 OES_Carb_2_norm_wide <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PCA/Carb_2_norm.csv", header=TRUE, sep=",")
 OES_Na_C_1_norm_wide <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PCA/Na_C_1_norm.csv", header=TRUE, sep=",")
 
-Na_matrix_recoveries <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PCA/Na_matrix_recoveries.csv", header=TRUE, sep=",")
-Ca_matrix_recoveries <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PCA/Ca_matrix_recoveries.csv", header=TRUE, sep=",")
-Na_C_matrix_recoveries <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PCA/Na_C_matrix_recoveries.csv", header=TRUE, sep=",")
-Carb_matrix_recoveries <- read.csv(file = "G:/My Drive/WFU/BG_multivariate/R/BG_PCA/Carb_matrix_recoveries.csv", header=TRUE, sep=",")
-
 rid_carbon <- c("C.247.856", "C.193.027", "C.175.122", "Tb.308.958", "Ta.337.649", "N.174.465", "N.174.213")
 analytes <- c("Cd.214.439", "Co.238.892", "Cr.267.716", "Pb.220.353")
 
